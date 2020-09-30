@@ -1,6 +1,7 @@
 ---
 - hosts: webserver
   become: yes
+  become_user: root
   tasks:
    - name: "install vim"
      yum:
