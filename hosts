@@ -1,2 +1,2 @@
 [webserver]
-18.222.253.114 ansible_connection=ssh ansible_ssh_user=root
+localhost ansible_connection=ssh ansible_ssh_user=root
