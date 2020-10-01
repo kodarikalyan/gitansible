@@ -1,2 +1,3 @@
 [webserver]
-3.22.99.135 ansible_connection=ssh ansible_ssh_user=root
+3.22.99.135
+#3.22.99.135 ansible_connection=ssh ansible_ssh_user=root
