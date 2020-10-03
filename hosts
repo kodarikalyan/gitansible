@@ -1,3 +1,4 @@
 [webserver]
 18.188.144.136
+18.221.230.66
 #3.22.99.135 ansible_connection=ssh ansible_ssh_user=root
